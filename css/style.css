@@ -1,4 +1,10 @@
 body {
-    background-color: rgb(255, 203, 221);
-    color: rgb(136, 8, 21);
+    background-color: rgb(255, 222, 233);
+    color: rgb(39, 27, 5);
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
 }
